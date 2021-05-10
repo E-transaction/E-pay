@@ -1,0 +1,11 @@
+.logo img{
+    width:30%;
+}
+.logo{
+    display: inline-block;
+}
+ul li{
+     text-decoration: none;
+     display:inline-block;
+     padding:10px;
+}
