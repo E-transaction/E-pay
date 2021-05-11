@@ -45,12 +45,12 @@
     
     
     }
-    .principal h1{
+    .jumbotron h1{
         font-size: 70px;
-        margin-bottom: 20px;
+        
         position: left;
     }
-    .principal p{
+    .lead{
         color: cyan;
         font-size: 25px;
         position: left;
@@ -89,3 +89,7 @@
         }
         
     }
+
+.navbar{
+    background: transparent;
+}
