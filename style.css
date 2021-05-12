@@ -58,34 +58,34 @@
     }
     @keyframes slide {
         0%{
-            background-image: url(images/image1.jpg);
+            background-image: url(images/picture1.png);
         }
         20%{
-            background-image: url(images/image1.jpg);  
+            background-image: url(images/picture1.png);  
         }
         20.01%{
-            background-image: url(images/image2.jpg);
+            background-image: url(images/newpic1.jpg);
         }
         40%{
-            background-image: url(images/image2.jpg);  
+            background-image: url(images/newpic1.jpg);  
         }
         40.01%{
-            background-image: url(images/image3.jpg);
+            background-image: url(images/picture3.png);
         }
         60%{
-            background-image: url(images/image3.jpg);  
+            background-image: url(images/picture3.png);  
         }
         60.01%{
-            background-image: url(images/image4.jpg);
+            background-image: url(images/newpic2.png);
         }
         80%{
-            background-image: url(images/image4.jpg);  
+            background-image: url(images/newpic2.png);  
         }
         80.01%{
-            background-image: url(images/image5.jpg);
+            background-image: url(images/newpic3.png);
         }
         100%{
-            background-image: url(images/image5.jpg);  
+            background-image: url(images/newpic3.png);  
         }
         
     }
