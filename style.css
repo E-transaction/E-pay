@@ -97,3 +97,14 @@
 .img{
     opacity: 0.2;
 }
+
+
+.forms{
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+    margin-left: 40%;
+    top: 0;
+    padding: 20%;
+}
