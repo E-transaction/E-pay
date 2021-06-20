@@ -22,10 +22,10 @@ function myFunction(){
     
     console.log("Success");
     
-    document.getElementById("success").innerHTML="Successfully logged in";
-    document.getElementById("si").innerHTML="Hi !";
-    window.location.href = "index.html";
+    window.location.replace("https://rzp.io/l/PRf6Qh4KPb");
 
+}   
 
-    
+function clicked(){
+    window.location.replace('sign.html');
 }
